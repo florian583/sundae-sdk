@@ -45,7 +45,8 @@ export type TSupportedWallets =
   | "gerowallet"
   | "cardwallet"
   | "nufi"
-  | "begin";
+  | "begin"
+  | "lace";
 
 /**
  * Basic asset structure with the amount.
